@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "CV"
+title: "Educational Institutes"
 permalink: /education/
 # author_profile: true
 ---
