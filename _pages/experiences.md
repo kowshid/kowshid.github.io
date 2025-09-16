@@ -22,7 +22,7 @@ As a graduate research assistant, I am working on the Edge Forestry project, an 
 
 bKash is Bangladesh’s largest mobile financial service provider, empowering 80million+ people with digital payment solutions and driving financial inclusion and digital literacy. It is one of top fintech companies in the world in the payments section according to [CNBC](https://www.cnbc.com/the-worlds-top-fintech-companies-2025/).
 
-- Involved in the development and maintenance of bKash's Payment Gateway, a key component of the company's operations,  processing a daily average of 400 thousand transactions. Used Spring Boot, AWS Cognito, Lambda, DynamoDB, and Cloudwatch.
+- Involved in the development and maintenance of bKash's Payment Gateway, a key component of the company's operations,  processing a daily average of 410 thousand transactions. Used Spring Boot, AWS Cognito, Lambda, DynamoDB, and Cloudwatch.
 - Redesigned the payment modules of the gateway to microservice architecture from serverless Lambda functions, reducing response time by 50%. Used Reactive Java, Redis, API Gateway, and Locust.
 - Migrated Merchant Notification system to a reactive module, enabling the new solution to handle 7000 requests per minute. Used Reactive Java, AWS Simple Notification Service, and S3 Bucket.
 - Enhanced system security by implementing API request-response cipher mechanism and AWS Web Application Firewall (WAF) rules.
