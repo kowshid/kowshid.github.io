@@ -20,11 +20,11 @@ main:
   - title: "Accolades"
     url: /accolades/      
     
-  - title: "Resume"
-    url: /resume/
+  - title: "Information"
+    url: /information/
     
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/
