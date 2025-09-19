@@ -6,13 +6,13 @@ permalink: /education/
 ---
 
 
-## [Grand Valley State University](https://www.gvsu.edu/), Grand Rapids, MI
-**MS in Applied Computer Science** - August 2025 to Present
+## <a href="https://www.gvsu.edu/" target="_blank" rel="noopener noreferrer">Grand Valley State University</a>, Grand Rapids, MI
+**MS in Applied Computer Science** - Expected May 2027
 
 
-## [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/), Dhaka, Bangladesh
-**BSc in Computer Science and Engineering** - February 2016 to February 2021
+## <a href="https://www.buet.ac.bd/web/" target="_blank" rel="noopener noreferrer">Bangladesh University of Engineering and Technology</a>, Dhaka, Bangladesh
+**BSc in Computer Science and Engineering** - Feb 2021
 
 
-## [Notre Dame College](https://www.ndc.edu.bd/), Dhaka, Bangladesh
+## <a href="https://www.ndc.edu.bd/" target="_blank" rel="noopener noreferrer">Notre Dame College</a>, Dhaka, Bangladesh
 **Higher Secondary**

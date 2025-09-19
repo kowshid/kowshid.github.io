@@ -4,6 +4,7 @@ title: "Achievements"
 author_profile: true
 redirect_from: 
   - /accolades.html
+  - /achievements
 ---
 
 ### Star Award, H2 - 2023 May 2024
