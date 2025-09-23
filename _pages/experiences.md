@@ -10,7 +10,7 @@ redirect_from:
 ## <a href="https://www.gvsu.edu/computing" target="_blank" rel="noopener noreferrer">GVSU College of Computing</a>, Grand Rapids, MI
 **Graduate Research Assistant** - August 2025 to Present
 
-As a graduate research assistant, I am working on the Edge Forestry project, an AI-powered platform that detects plant disease from aerial images.
+I am working on Edge Forestry - an AI-powered platform that detects oak wilt from aerial images by analyzing subtle tree patterns.
 
 - Architect and deploy a machine learning driven plant disease detection platform on AWS EC2 with Cloudflare integration.
 - Develop and implement new features in Python Flask and Nuxt to expand platform functionality and enhance user experience.
@@ -21,11 +21,14 @@ As a graduate research assistant, I am working on the Edge Forestry project, an 
 
 bKash is Bangladesh’s largest mobile financial service provider, empowering more than 80 million people with digital payment solutions and driving financial inclusion and digital literacy. It is one of top fintech companies in the world in the payments section according to <a href="https://www.cnbc.com/the-worlds-top-fintech-companies-2025/" target="_blank" rel="noopener noreferrer">CNBC</a>.
 
-- Involved in the development and maintenance of bKash's Payment Gateway, a key component of the company's operations,  processing a daily average of 410 thousand transactions. Used Spring Boot, AWS Cognito, Lambda, DynamoDB, and Cloudwatch.
-- Redesigned the payment modules of the gateway to microservice architecture from serverless Lambda functions, reducing response time by 50%. Used Reactive Java, Redis, API Gateway, and Locust.
-- Migrated Merchant Notification system to a reactive module, enabling the new solution to handle 7000 requests per minute. Used Reactive Java, AWS Simple Notification Service, and S3 Bucket.
-- Enhanced system security by implementing API request-response cipher mechanism and AWS Web Application Firewall (WAF) rules.
+- Designed and developed bKash’s Payment Gateway, a key component of the company’s operations, processing a daily average of 410 thousand transactions. Used Spring Boot, AWS Cognito, Lambda, DynamoDB, and Cloudwatch.
+- Redesigned the payment modules of the gateway to an object-oriented microservice architecture from serverless Lambda functions, reducing response time by 50%. Used Reactive Java, Redis, API Gateway, and Locust.
+- Migrated the Merchant Notification system to a reactive module, enabling the new solution to handle 7000 requests per minute. Used Reactive Java, AWS Simple Notification Service, and S3 Bucket.
+- Enhanced system security by implementing a REST API request-response cipher mechanism and AWS Web Application Firewall (WAF) rules.
 - Introduced Agent-to-Merchant (A2M) and Merchant-to-Merchant(M2M) transactions to increase transaction volume by 17%.
+- Implemented CI/CD pipelines to automatically run test cases on pull requests to ensure code quality and reliability.
+- Configured local development environments using Terraform and AWS CLI to streamline testing workflows.
+- Onboarded and trained new team members on tech stack and procedures.
 
 
 ## <a href="https://www.revesoft.com/" target="_blank" rel="noopener noreferrer">Reve Systems</a>, Dhaka, Bangladesh
@@ -44,5 +47,5 @@ REVE Systems is a leading solution provider for the IP-based telecommunication i
 
 Chaldal is Bangladesh's first and largest online grocery delivery service.
 
-- Got accustomed to Microsoft Azure and .NET framework.
-- Learned F\# for functional programming solutions.
+- Gained hands-on experience with Microsoft Azure, the .NET framework, and Agile methodology.
+- Learned F# for functional programming solutions.
