@@ -7,7 +7,14 @@ redirect_from:
   - /achievements
 ---
 
-### Star Award, H2 - 2023 May 2024
+
+### First Place, ThreatOps – Purple AI CTF
+GrrCON Cyber Security Summit 2025, Grand Rapids, MI
+
+### Third Place, ThreatOps – AI SIEM CTF
+GrrCON Cyber Security Summit 2025, Grand Rapids, MI
+
+### <a href="https://www.linkedin.com/in/kowshid/details/honors/" target="_blank" rel="noopener noreferrer">Star Award, H2 - 2023</a>
 Product & Technology Division, bKash Limited
 
 ### Ranked in Top 10, Higher Secondary Category, Chittagong Divisional Round 2015
