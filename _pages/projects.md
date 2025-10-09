@@ -16,9 +16,9 @@ A business solution enabling merchants to collect payments while easing the onli
 ## <a href="https://edgeforestry.com/" target="_blank" rel="noopener noreferrer">Edge Forestry</a>
 Grand Rapids, MI
 
-A system to analyze drone aerial imagery and detect oak wilt infections by identifying subtle patterns in tree color, canopy texture, and spatial changes that are invisible to the human eye, using AI. The platform provides fast and accurate early detection that enables proactive treatment decisions to protect trees and forest investments.  Architected and deployed the platform on AWS, and currently extending it to leverage satellite imagery for broader forest health monitoring.
+A system to analyze drone aerial imagery and detect oak wilt infections by identifying subtle patterns in foliage color, canopy texture, and spatial changes that are invisible to the human eye, using AI. The platform provides fast and accurate early detection that enables proactive treatment decisions to protect trees and forest investments. Architected and deployed the platform on AWS, and currently extending it to leverage satellite imagery for broader forest health monitoring.
 
-**Skills**: DevOps · Production Deployment · Solution Architecture · Flask · Nuxt.js · Python (Programming Language) · Nginx · JavaScript
+**Skills**: DevOps · Production Deployment · Solution Architecture · Flask · Nuxt.js · Python · Nginx · JavaScript
 
 ## <a href="https://developer.bka.sh/docs/webhooks" target="_blank" rel="noopener noreferrer">Instant Payment Notification</a> 
 *bKash Limited*, Dhaka, Bangladesh

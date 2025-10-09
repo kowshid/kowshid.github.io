@@ -7,11 +7,10 @@ redirect_from:
   - /achievements
 ---
 
-
-### First Place, ThreatOps – Purple AI CTF
+### <a href="https://www.credly.com/badges/706862fa-ea00-47cd-a40c-a5e19fb13a24/public_url" target="_blank" rel="noopener noreferrer">First Place: SentinelOne Purple AI ThreatOps Challenge</a>
 GrrCON Cyber Security Summit 2025, Grand Rapids, MI
 
-### Third Place, ThreatOps – AI SIEM CTF
+### <a href="https://www.credly.com/badges/67ef5f8e-7d6a-4f99-8ad6-5fcd691cefa3/public_url" target="_blank" rel="noopener noreferrer">Third Place: SentinelOne AI SIEM ThreatOps Challenge</a>
 GrrCON Cyber Security Summit 2025, Grand Rapids, MI
 
 ### <a href="https://www.linkedin.com/in/kowshid/details/honors/" target="_blank" rel="noopener noreferrer">Star Award, H2 - 2023</a>
