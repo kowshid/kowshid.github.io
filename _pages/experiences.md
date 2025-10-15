@@ -12,8 +12,8 @@ redirect_from:
 
 I am working on Edge Forestry - an AI-powered platform that detects oak wilt from aerial images by analyzing subtle tree patterns.
 
-- Architect and deploy a machine learning driven plant disease detection platform on AWS EC2 with Cloudflare integration.
-- Implement new features in Python Flask and Nuxt to expand platform functionality and enhance user experience.
+- Architect and deploy a machine learning driven plant disease detection platform using AWS EC2, Nginx, and Cloudflare.
+- Implement new features in Flask and Nuxt to expand platform functionality and enhance user experience.
 - Manage and optimize cloud infrastructure to ensure system reliability and performance.
 
 ## <a href="https://www.bkash.com/en/" target="_blank" rel="noopener noreferrer">bKash Limited</a>, Dhaka, Bangladesh
@@ -21,13 +21,14 @@ I am working on Edge Forestry - an AI-powered platform that detects oak wilt fro
 
 bKash is Bangladesh’s largest mobile financial service provider, empowering more than 80 million people with digital payment solutions and driving financial inclusion and digital literacy. It is one of top fintech companies in the world in the payments section according to <a href="https://www.cnbc.com/the-worlds-top-fintech-companies-2025/" target="_blank" rel="noopener noreferrer">CNBC</a>.
 
-- Contributed to and maintained bKash’s Payment Gateway, a key component of the company’s operations, processing over 410k daily transactions. Used Spring WebFlux, AWS Cognito, Lambda, DynamoDB, and CloudWatch.
-- Redesigned the payment modules of the gateway to an object-oriented microservice architecture from serverless Lambda functions, reducing response time by 50%. Used Reactive Java, Redis, API Gateway, and Locust.
-- Migrated the Merchant Notification system to a reactive module, enabling the new solution to handle 7000 requests per minute. Used Reactive Java, AWS Simple Notification Service, and S3 Bucket.
+- Contributed to and maintained bKash’s Payment Gateway, a key component of the company’s operations, processing over 410k daily transactions. Used Java, Python, AWS Cognito, Lambda, DynamoDB, and CloudWatch.
+- Redesigned payment gateway modules from serverless Lambda functions to an object-oriented microservice architecture using Spring WebFlux, Redis, and API Gateway, reducing response time by 50% and lowering Lambda invocation, CloudWatch, and EC2 costs.
+- Migrated the Merchant Notification system to a reactive module, enabling it to handle 7,000 requests per minute while reducing EC2, DynamoDB, and S3 costs.
 - Enhanced system security by implementing a REST API request-response cipher mechanism and AWS Web Application Firewall (WAF) rules.
-- Introduced Agent-to-Merchant (A2M) and Merchant-to-Merchant(M2M) transactions to increase transaction volume by 17%.
 - Built CI/CD pipelines with GitHub Actions to run tests on pull requests and deploy changes to a test server, ensuring reliable and efficient development workflows.
 - Automated local development environment setup using Terraform and AWS CLI, eliminating manual setup errors.
+- Utilized Bash scripts to deploy application changes to the development EC2 server.
+- Collaborated with cross-functional teams and stakeholders to deliver high-quality products, actively participating in Agile ceremonies including stand-ups, refinements, and retrospectives.
 - Onboarded and trained new team members on tech stack and procedures.
 
 
@@ -38,9 +39,10 @@ bKash is Bangladesh’s largest mobile financial service provider, empowering mo
 REVE Systems is a leading solution provider for the IP-based telecommunication industry, which provides products like soft-switch, SMS platforms, and cloud telephony.
 
 - Developed the admin and customer portals for the VoIP enterprise platform. Used Spring Boot, Struts, MySQL, and Postman.
-- Implemented Balance Manager using Redis Pub/Sub for call and SMS authorization to shift the business model from postpaid to prepaid.
-- Automated the call rate entry process between multiple origins and destinations by developing an email-driven solution, replacing the manual, time-consuming methods, and eliminating data entry errors.
+- Implemented BalanceManager using Redis Pub/Sub for call and SMS authorization, enabling a transition from a postpaid to a more cost-effective prepaid business model.
+- Automated the call rate entry process across multiple origins and destinations by developing an email-driven solution, eliminating manual data entry errors, reducing workload, and cutting associated operational costs.
 - Integrated the ELK Stack (Elasticsearch, Logstash, Kibana) for efficient log monitoring and analysis.
+- Maintained and updated documentation for clients, testers, and the product team throughout the software development life cycle.
 
 ## <a href="https://chaldal.tech/" target="_blank" rel="noopener noreferrer">Chaldal Limited</a>, Dhaka, Bangladesh
 **Engineering Trainee** - March 2021 to June 2021
