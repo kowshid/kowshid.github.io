@@ -5,6 +5,7 @@ permalink: /experiences/
 author_profile: true
 redirect_from:
   - /experiences.html
+  - /portfolio
 ---
 
 ## <a href="https://www.gvsu.edu/computing" target="_blank" rel="noopener noreferrer">GVSU College of Computing</a>, Grand Rapids, MI

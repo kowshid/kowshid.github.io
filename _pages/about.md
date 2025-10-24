@@ -13,4 +13,4 @@ I am currently pursuing my Master’s in <a href="https://www.gvsu.edu/catalog/p
 
 Over the past four years, I have built my career in the fintech and telecom industries. My expertise spans reactive programming, cloud infrastructure, software development lifecycle, and more. I specialize in designing and delivering scalable, secure systems on the cloud, with a strong focus on performance, reliability, and real-world impact.
 
-*"Large systems are nothing short of magic."*
+***"Large systems are nothing short of magic."***
