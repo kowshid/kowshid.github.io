@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "Ahsan.jpg"
   name             : "Ahsanul Kabir"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him/his"  
   bio              : "Software Engineer"
   location         : "Grand Rapids, MI"
   employer         : "GVSU College of Computing"
@@ -43,14 +43,6 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "kowshid"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
@@ -78,6 +70,14 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "kowshid"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
 # Publication Category - The following the list of publication categories and their headings
 # publication_category:
