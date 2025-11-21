@@ -8,7 +8,7 @@ permalink: /education/
 
 ## <a href="https://www.gvsu.edu/" target="_blank" rel="noopener noreferrer">Grand Valley State University</a>, Grand Rapids, MI
 **Master of Science in Applied Computer Science** - Expected May 2027
-- Relevant Coursework: Distributed Systems, Machine Learning, Secure Software Engineering
+- Relevant Coursework: Distributed Systems, Machine Learning Operations, Secure Software Engineering
 
 ## <a href="https://www.buet.ac.bd/web/" target="_blank" rel="noopener noreferrer">Bangladesh University of Engineering and Technology</a>, Dhaka, Bangladesh
 **Bachelor of Science in Computer Science and Engineering** - Feb 2021
