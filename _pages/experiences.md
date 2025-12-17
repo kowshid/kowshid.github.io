@@ -11,9 +11,10 @@ redirect_from:
 ## <a href="https://www.gvsu.edu/computing" target="_blank" rel="noopener noreferrer">GVSU College of Computing</a>, Grand Rapids, MI
 **Graduate Research Assistant** - August 2025 to Present
 
-I am working on Edge Forestry - an AI-powered platform that detects oak wilt from aerial images by analyzing subtle tree patterns.
+I am working on Edge Forestry - an AI-powered platform that detects early indicators of plant diseases from aerial images by analyzing subtle tree patterns.
 
 - Architect and deploy a machine learning driven plant disease detection platform using AWS EC2, Nginx, and Cloudflare.
+- Integrate AWS S3 and Aurora PostgreSQL to enable image uploads, model execution, and result archiving.
 - Implement new features in Flask and Nuxt to expand platform functionality and enhance user experience.
 - Manage and optimize cloud infrastructure to ensure system reliability and performance.
 
@@ -39,8 +40,8 @@ bKash is Bangladesh’s largest mobile financial service provider, empowering mo
 
 REVE Systems is a leading solution provider for the IP-based telecommunication industry, which provides products like soft-switch, SMS platforms, and cloud telephony.
 
-- Developed the admin and customer portals for the VoIP enterprise platform. Used Spring Boot, Struts, MySQL, and Postman.
-- Implemented BalanceManager using Redis Pub/Sub for call and SMS authorization, enabling a transition from a postpaid to a more cost-effective prepaid business model.
+- Developed admin and customer portals for a telecommunications company. Used Spring Boot, Struts, and MySQL.
+-Implemented BalanceManager using Redis Pub/Sub for call and SMS authorization, enabling a transition from a postpaid to a more cost-effective prepaid business model.
 - Automated the call rate entry process across multiple origins and destinations by developing an email-driven solution, eliminating manual data entry errors, reducing workload, and cutting associated operational costs.
 - Integrated the ELK Stack (Elasticsearch, Logstash, Kibana) for efficient log monitoring and analysis.
 - Maintained and updated documentation for clients, testers, and the product team throughout the software development life cycle.

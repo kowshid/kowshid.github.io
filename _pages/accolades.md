@@ -7,6 +7,9 @@ redirect_from:
   - /achievements
 ---
 
+### <a href="https://drive.google.com/file/d/17GC1MVUB7N_l7D9p-nV9OTRIVljvNTYV/view" target="_blank" rel="noopener noreferrer">Semi Finalist</a>
+GR Deep Tech Pitch Competition, Grand Rapids, MI
+
 ### <a href="https://www.credly.com/badges/706862fa-ea00-47cd-a40c-a5e19fb13a24/public_url" target="_blank" rel="noopener noreferrer">First Place: SentinelOne Purple AI ThreatOps Challenge</a>
 GrrCON Cyber Security Summit 2025, Grand Rapids, MI
 
