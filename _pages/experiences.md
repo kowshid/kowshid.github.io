@@ -15,8 +15,8 @@ I am working on Edge Forestry - an AI-powered platform that detects early indica
 
 - Architect and deploy a machine learning driven plant disease detection platform using AWS EC2, Nginx, and Cloudflare.
 - Integrate AWS S3 and Aurora PostgreSQL to enable image uploads, model execution, and result archiving.
-- Implement new features in Flask and Nuxt to expand platform functionality and enhance user experience.
-- Manage and optimize cloud infrastructure to ensure system reliability and performance.
+- Implement forest health indexing using Google Earth Engine, Flask, and Nuxt to expand platform functionality.
+
 
 ## <a href="https://www.bkash.com/en/" target="_blank" rel="noopener noreferrer">bKash Limited</a>, Dhaka, Bangladesh
 **Senior Engineer** - February 2023 to August 2025
