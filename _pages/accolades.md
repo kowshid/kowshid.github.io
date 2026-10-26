@@ -22,6 +22,9 @@ GrrCON Cyber Security Summit 2025, Grand Rapids
 ### <a href="https://www.linkedin.com/in/kowshid/details/honors/" target="_blank" rel="noopener noreferrer">Star Award, H2 - 2023</a>
 Product & Technology Division, bKash Limited
 
+### <a href="https://www.citiprogram.org/verify/?kdd32f5c0-e811-447b-84b7-ef8020a3d186-75218815" target="_blank" rel="noopener noreferrer">Responsible Conduct of Research for Applied Computer Sciences Graduate Students</a>
+CITI Program - Grand Valley State University
+
 <!-- ### Ranked in Top 10, Higher Secondary Category, Chittagong Divisional Round 2015
 Bangladesh Physics Olympiad (BdPhO)
 
